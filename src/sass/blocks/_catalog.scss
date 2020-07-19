@@ -26,8 +26,10 @@
 		cursor: pointer;
 		transition: 0.5s all;
 		&:hover {
-			box-shadow: 3px 3px 20px $main-color;
+			box-shadow: 3px 3px 20px blue;
 			border: none;
+			background-color: blue;
+			color: white;
 			
 		}
 		div {
